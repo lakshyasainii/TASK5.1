@@ -1,0 +1,102 @@
+.custom-app {
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 20px;
+}
+
+.custom-subhead h2 {
+  font-size: 24px;
+  margin-bottom: 20px;
+  background-color: lightgray;
+}
+
+.custom-head h2 {
+  background-color: lightgray;
+}
+
+.typer {
+  padding: 10px; 
+  padding-left: 10px;
+}
+
+.typer input[type="radio"] {
+  margin-right: 10px; 
+}
+
+.custom-area {
+  margin-bottom: 20px;
+}
+
+input[type="text"],
+textarea {
+  width: 100%;
+  padding: 10px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  font-size: 16px;
+}
+
+.custom-button button {
+  padding: 10px 20px;
+  background-color: #007BFF;
+  color: #fff;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+.custom-button {
+  text-align: center;
+  margin-top: 10px;
+}
+
+.custom-typer input[type="radio"] {
+  margin-right: 10px;
+}
+
+.head {
+  background-color: lightgray;
+  border: 1px solid #ccc;
+  width: 100%;
+  padding: 10px;
+  border-radius: 2px;
+  display: inline-block;
+}
+
+.subhead {
+  background-color: lightgray;
+  border: 1px solid #ccc;
+  width: 100%;
+  padding: 10px;
+  border-radius: 2px;
+  display: inline-block;
+}
+
+.area {
+  display: flex;
+  align-items: center;
+}
+
+.area label {
+  margin-right: 10px; 
+}
+
+.areas{
+  margin-top: 1%;
+}
+
+.area_footer {
+  margin-top: 1%;
+  display: flex;
+  align-items: center;
+}
+
+.area_footer label {
+  margin-right: 10px; /* Add some spacing between label and input */
+}
+
+.button {
+  margin-top: 1%;
+  text-align: right;
+}
+
